@@ -1,0 +1,28 @@
+{
+	"node": "n8n-nodes-base.odata",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Development",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.n8n.io/credentials/odata"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/nodes/n8n-nodes-base.odata/"
+			}
+		],
+		"generic": [
+			{
+				"label": "How the big boys connect",
+				"icon": "🤖",
+				"url": "https://n8n.io/blog/"
+			}
+		]
+	}
+}
